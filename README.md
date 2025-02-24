@@ -9,7 +9,7 @@ This **Batch (.bat) Script** helps users clean up temporary files, prefetch data
 - Downloaded Program Files (`C:\Windows\Downloaded Program Files`)
 
 ## ⚠️ Disclaimer
-**Use at your own risk!** This script requires **Administrator privileges** and will permanently delete files from the listed directories. Ensure you **understand the effects** before running it.
+**Use at your own risk!** This script requires **Administrator privileges** and will permanently delete files from the listed directories. Ensure you **understand the effects** before running it. It is not our responsibility for any damages that your system may have when running the file.
 
 ## 🎯 Features
 ✅ Opens temp directories for manual review  
