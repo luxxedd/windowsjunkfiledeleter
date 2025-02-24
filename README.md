@@ -15,7 +15,6 @@ This **Batch (.bat) Script** helps users clean up temporary files, prefetch data
 ✅ Opens temp directories for manual review  
 ✅ Deletes files automatically (with user confirmation)  
 ✅ Requests Administrator permissions for full access  
-✅ User-friendly ASCII UI with enhanced readability  
 ✅ Lightweight and easy to use  
 
 ## 🛠 Installation & Usage
