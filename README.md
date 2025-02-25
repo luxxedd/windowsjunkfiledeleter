@@ -18,11 +18,13 @@ This **Batch (.bat) Script** helps users clean up temporary files, prefetch data
 ✅ Lightweight and easy to use  
 
 ## 🛠 Installation & Usage
-1. **Download** the `fastjunkdeleter.bat` file.
+1. Get the files via a zip folder on the `Code` tab on GitHub, then you must extract them.
 2. **Right-click** the file and select **Run as administrator**.
-3. Follow the on-screen instructions:
+3. You may have to allow it through Microsoft Safescreen or any antiviruses as a certificate is expensive every year to make this program trusted! So, press `Run Anyways`.
+4. Follow the on-screen instructions:
    - Press **Y** to delete files.
    - Press **N** to exit without making changes.
+5. You may change the name of the file to make it more memorable, you may create a shortcut on your desktop by right-clicking on your desktop and press shortcut and then copy the file by right clicking on the file and copy and then input into the File Location that file and then it will turn into a shortcut!
 
 ## 💡 Contributions
 Feel free to fork this repo and submit **pull requests** to improve the script. Suggestions and improvements are always welcome!
